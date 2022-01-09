@@ -1,0 +1,39 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/eniolasonowo/Documents/code/vlaunch/contracts/Interfaces.sol": {
+      "lastModificationDate": 1641040532477,
+      "contentHash": "2c2dc1cea002c89cd7e14785443511a9",
+      "sourceName": "contracts/Interfaces.sol",
+      "solcConfig": {
+        "version": "0.8.7",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 2000
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.7"
+      ],
+      "artifacts": [
+        "Ivlaunch"
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+[
+    "UUPSProxiable",
+    "IERC20",
+    "TokenInfo",
+    "ERC20WithTokenInfo",
+    "IResolver",
+    "SuperfluidLoader",
+    "ISuperfluid",
+    "ISuperToken",
+    "ISuperTokenFactory",
+    "ISuperAgreement",
+    "ISuperfluidGovernance",
+    "IConstantFlowAgreementV1",
+    "IInstantDistributionAgreementV1",
+    "ISETH",
+    "TestToken"
+]
