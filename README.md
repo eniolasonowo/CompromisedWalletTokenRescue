@@ -87,6 +87,6 @@ Main file is scripts/claim.ts
 
 I will be adding more scenerios like rescuing NFTs, so stay stuned.
 
-## Follow me on [Twitter](https://twitter.com/eniolasonowo/ "Twitter")
+## Follow me on [Twitter](https://twitter.com/0xEniola/ "Twitter")
 
 
